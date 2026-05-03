@@ -134,8 +134,8 @@ Actively seeking opportunities in:
 ## Contact
 
 - GitHub: https://github.com/sambad-K  
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
+- Email: sambadkhatiwada939@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sambad-khatiwada/
 
 ---
 
