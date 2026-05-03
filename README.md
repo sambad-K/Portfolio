@@ -1,36 +1,146 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sambad Khatiwada | Software Engineer Portfolio
 
-## Getting Started
+A results-driven Computer Science student and aspiring Software Engineer specializing in full-stack development, backend systems, and scalable web applications. Focused on building production-ready software using modern engineering principles.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Professional Summary
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Software Engineering student with strong foundations in **Data Structures & Algorithms, Backend Development, and Full Stack Web Development**. Experienced in designing and developing scalable applications using Python and JavaScript ecosystems.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Core interests include:
+- Backend Engineering & API Development
+- Distributed System Fundamentals
+- Scalable Web Application Design
+- AI-integrated Applications
+- System Design & Architecture Basics
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technical Skills (ATS Keywords Optimized)
 
-To learn more about Next.js, take a look at the following resources:
+### Programming Languages
+- Python (Advanced)
+- JavaScript (ES6+)
+- SQL
+- HTML5, CSS3
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend Development
+- Django
+- Flask
+- Node.js
+- Express.js
+- RESTful API Development
+- Authentication (JWT, Session-based Auth)
+- CRUD System Design
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frontend Development
+- React.js
+- Responsive Web Design
+- UI/UX Implementation
 
-## Deploy on Vercel
+### Databases
+- MongoDB (NoSQL Database Design)
+- MySQL (Relational Database Design)
+- PostgreSQL
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Computer Science Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- System Design Basics
+- Database Design & Optimization
+- Operating System Fundamentals
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Tools & DevOps
+- Git, GitHub (Version Control)
+- Linux Environment
+- Postman (API Testing)
+- Docker (Basic Containerization)
+- CI/CD Awareness
+
+---
+
+## Featured Projects
+
+### Portfolio Website (Full Stack)
+Designed and developed a responsive personal portfolio showcasing projects, skills, and experience. Focused on clean UI/UX and performance optimization.
+
+**Keywords:** React, Responsive Design, UI/UX, Frontend Architecture
+
+---
+
+### TODO Management System (Flask + SQLAlchemy)
+A full-stack CRUD application with user authentication, database integration, and secure session handling.
+
+**Keywords:** Flask, REST API, Authentication, CRUD, SQLAlchemy, MVC Architecture
+
+---
+
+### Intelligent Luggage Tracking Chatbot System
+AI-assisted chatbot system for lost and found luggage management using NLP techniques and backend verification logic.
+
+**Keywords:** NLP, Backend Integration, Database Matching, Chatbot System, Automation
+
+---
+
+### AI Debate Simulator Platform
+A web-based debate system enabling Human vs AI and AI vs AI debates with structured argument evaluation and scoring system.
+
+**Keywords:** AI Systems, Argument Evaluation, System Design, RAG Concepts, Web Application
+
+---
+
+## Software Engineering Practices
+
+- Built REST APIs with proper request/response architecture
+- Implemented authentication and authorization systems
+- Followed modular and reusable code structure
+- Applied MVC and layered architecture principles
+- Database normalization and schema design
+- Debugging and performance optimization
+
+---
+
+## Problem Solving & Competitive Programming
+
+- Strong understanding of algorithmic thinking
+- Experience with array, string, recursion, and graph-based problems
+- Focus on time and space complexity optimization
+- Consistent practice in logical and structured problem solving
+
+---
+
+## Career Interests (ATS Keywords)
+
+Actively seeking opportunities in:
+- Software Engineer (Backend / Full Stack)
+- Backend Developer
+- Python Developer
+- Full Stack Developer
+- AI / ML Engineering (Entry Level)
+- Software Development Internships
+
+---
+
+## Goals
+
+- Work in scalable backend or distributed systems teams
+- Build production-grade software applications
+- Gain industry experience in large-scale system development
+- Contribute to open-source and real-world engineering systems
+
+---
+
+## Contact
+
+- GitHub: https://github.com/sambad-K  
+- Email: your-email@example.com  
+- LinkedIn: your-linkedin-profile  
+
+---
+
+## Keywords for ATS Indexing
+
+Software Engineer, Backend Developer, Full Stack Developer, Python Developer, REST API, Django, Flask, Node.js, React.js, MongoDB, MySQL, PostgreSQL, System Design, Data Structures, Algorithms, OOP, Authentication, JWT, CRUD Applications, Scalable Systems, Distributed Systems Basics, Cloud Awareness, Git, CI/CD, Docker, Linux
+
+---
