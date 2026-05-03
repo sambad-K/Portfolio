@@ -139,8 +139,4 @@ Actively seeking opportunities in:
 
 ---
 
-## Keywords for ATS Indexing
-
-Software Engineer, Backend Developer, Full Stack Developer, Python Developer, REST API, Django, Flask, Node.js, React.js, MongoDB, MySQL, PostgreSQL, System Design, Data Structures, Algorithms, OOP, Authentication, JWT, CRUD Applications, Scalable Systems, Distributed Systems Basics, Cloud Awareness, Git, CI/CD, Docker, Linux
-
----
+Rendered: https://portfolio-76jh.onrender.com/
